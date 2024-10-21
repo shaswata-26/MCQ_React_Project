@@ -1,0 +1,21 @@
+
+
+.result-container {
+    padding: 20px;
+    background-color: hsl(130, 81%, 54%);
+    border-radius: 8px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+  }
+  
+  .result-container h1 {
+    color: #333;
+  }
+  .result-container a{
+    height: 70px;
+    width: 30px;
+    padding: 10px;
+    border: none;
+    background-color: hsl(279, 76%, 46%);
+    color: #fff;
+    text-decoration: none;
+  }
